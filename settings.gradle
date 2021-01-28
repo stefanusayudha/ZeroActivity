@@ -1,0 +1,3 @@
+rootProject.name = "ZeroProject"
+include ':app'
+include ':ZeroActivity'
