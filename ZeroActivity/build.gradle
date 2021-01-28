@@ -2,8 +2,7 @@ plugins {
     id 'com.android.library'
     id 'kotlin-android'
 }
-version = '1.0'
-group 'com.iddevops'
+
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
